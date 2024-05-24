@@ -1,0 +1,25 @@
+{
+  "chain": [
+    {
+      "index": 1,
+      "timestamp": "2024-02-03 13:27:23.244657",
+      "proof": 1,
+      "previous_hash": "0",
+      "data": []
+    },
+    {
+      "index": 2,
+      "timestamp": "2024-02-03 13:27:50.385783",
+      "proof": 533,
+      "previous_hash": "082abea3ecff67a4c7a62d7fbb431ad1b83467503eed193766b905564d914704",
+      "data": "[{'surface_area': b'mGa11xqwzpzuFL4X3ynsF5RR9MQFFHP7s7b3PJyb0ecMM4X4O8fjQWSrkUq5FKq5AmmBxuBY69afVX9vKQGYTgeuLoIVyzboPl2RpMvH7JEkewMovMb2LHsEwfS61QROrjRZZK4Ts131vhzfXJnh3QbhoeV5ql3xrCXnHZ55Jus1Go/0bwrkZmD1vLF/RC/FcX7Ke2Tn0rK0rdTdHH9nAuXRPDNfD3+mmU7tiJtvLHAPp4zU1LmVaG14ik5Z1bVsEjXBI6eeY6U1pNzLUTQJ6XCgwQCHnyeuIG1LUGXsY50LXRU+mLwIrMkZeWo4VHdDC/Ol6w86TCGt4DoeKJlx2w==', 'sale_price': b'Ak/ceJbnzZTu6x0NvIGPCQ+2qnihagpl0q1qPC4JN3DNg3W7FPuokCnyzuDUPQeQ7leXhtpCjtUcw2ZUlp++TziiWNVawGElr5uHzL14UDuYIfNRONB7f3d5EbfaH+y6VTkU7P5X0EEh6vJW2csXD/PhKKNfT+ydpKWPbLYXx9lN/7FXUeg66TW8m4+VA3OLemzMTDpGRlu6nN08xwsIP74HA5trfuNcEoegNp0Ib7O1FShvlmeIsz1Gs1WX217gyxKjxpqproVeCkkZRRztMShfqGYCLxCupb1ONqYymiAS9wLF8Y1Mp3GSCwF5hiZeoQMEfzaGGzizwT56NUCqAA==', 'previous_owner': b'lWyt+CRnvcaNBGT0Q1z5UL1lhjOmciNWCBe2B2MGgQ/KlkCmEaiQOwWAnvBxejEcEuh5TBqeUptm9W6lmwoLVoLbyKd8fAg2BzssqYPKJtpmdZfGrFeN346Na+DUEs3wPzTW5Y2ub5R8cnrzWb+G3NQBi7QYXLumKSb1i01VSxt9+CxbhLWNaDWLPLoUsB4IRsFnZlQbpeiXinJfYxpVi9UauPs/SAX2U3wpGPvIpu1LRi4soBMYfFjzBnKHB1Xy4DW83fcgkPGkoDfjrT9Dlut4YTeFERGIO3ucN5r44rFmnW54IOOqTUZKb80u9++HvTPLbiNcM1LEUDj9fNm8/g==', 'current_owner': b'Ervy+4CuGGKJwSM/xj87HU/smXykmWOUTiviQJWiJ3YvAPUqelsu0fDwDFSPR27489yZp0yuKTEkVZ4ocDi/ITJskrQlXQg4vs2TvfZy/ERvTDj+Rl2BkulSS8iChH44eOJgQ/QbHs3xwGdC7Nnt6g4BQjKB3ZLDF+3XjXtBN+0KKcA6ZOnfqmcmlu/KCMfXQw3sgUg4xbtP5ySJFMZih1+EcoZMYQEas1VdUKV+zu2rAXNOAZGL6YYoDxHM/G/ocuBH/hESUOWvm4yhU5m8UxGoam27PSK594CNo6Cw0f4dNQaiK4C2yL5qf6miYt1U8MAcLf6cLStefi8k5WgHPA==', 'contract_date': b'nocwRwvr0F1l1ONLum6atdcUN4zLKOY/SHKdyIcDoIzG27+F+TUXLqUtQTU0kHBkrG5NeLip9yocA8KzhZKHxULpK6nEJyC0kxzEuzzGLRjvqGX69plPk6T1ysuN0y4d0q5yUnGSkNhZo4Zv56QHsLeubLasQJ73MLGLpSsdl3uao07L/VoVNTKXlEI3z/dHPnuhakR7bfjDVtSQ224AXnDooADxtaI9BkFKU4hg4cf8k5lQym61v5bHr6YzHzC3mHr5p3LrCaKd2Z0p57qCNuEwbQAXafYEwrvle9MQRpJDNNgzbR810pNSsgMkbOPr2PkuO7eZkzRHjZVMZBgeHA==', 'address': b'ZonNR6VixhUhsPpKdVDiVWeeQB2k8w0sTUpgJStVApXyscogBUdonyzPNab2y/cyxydOqhGagkgV+kRvShfGSg+9fslXfLpk+B1lZDrqhCeh/aL1hBx/dcYUgrHRsAugG13o6u2fS6AsGGXgtExpjK3pdjIE1EddgVbFm9ecHBNG5moiN9L9ArfiRBlVbr66pRSPkZPXhjB5Dk+81SViJYhnY36qhks2v9770X9ix0aSVVaTPVz5arpikAxw4KO3uWBhtgX6vwXpU9XMTJyw0a/XBU0dwSmD2mNQE1H17Wy60DKTx/nOO2dUYsuxaExERLVbqptLMT4FEc6wLz00zA=='}]"
+    },
+    {
+      "index": 3,
+      "timestamp": "2024-02-03 13:28:12.055400",
+      "proof": 45293,
+      "previous_hash": "84dfd2f766d934e88777c4a42802ffefc9a2bf991da1a08cadf6e87991a87b93",
+      "data": "[{'surface_area': b'aRkYb1PhY5vgULtFzUGi03mFW+SphFpjHtj7r1Jzo/eBhjvLrPyTXZJMn61CEMbFK1bl88D0qsTnFOIPye04xq02iAysQ6r8dXjyVdr5ZcwXGn2BYBlFEetGgQgSGx65cQg6RNFQW6O04woYymiFpX0aKdKo05JvzAruwA5ljLjZ6jKxtYjgk53snN9iJbvqapLOpmfbOb3kLbs1c4XmnxKEtaqZ9AYPVs7GJg7s4w92i483x8YPGvlpi2AvsLms8Qx+VeSqOupkA7UivfKKg9O6nER+qPKZj1Cj5i1yjUkZAuuA3rrHVq7MiWPdtf0JTWgZcqrbI/r84u/ycNblCg==', 'sale_price': b'jxk5W0HD7FsQqGErG8FtasVA0iBFbYAB4ldqMuIRj5NYTL7nTUiiQLzXnAe1Uy7v3PcFizdzQYp0cDP//HRdb/WgKmUHaN0j7Ff5SZYEazx5pjBFy+RiLtTpK3739JPrPkls2qN/3bOWicXDIo0AAgqdppCC08DIaFj+Ofc3vIHnxKF0/JjQh56qbbYuWAp6VwAllnAperHyzqWtwfkkZ4EGjwzkxH9lqXMqlOt2d/s2jp41mPUMrG4puZaXpNavVOl5C+P73WrJ+IFV3VadF5fymLdF/QFs4N3Y347Fsw3WuBognkVOjP8yit0vMgUP8yJoscPk59jJ2P8krDHycA==', 'previous_owner': b'N9lLJa8l2MAXfgNFjeVPHGDfUqIO1ium1ymISKaM+vUttCdh7arPE8hJPu14hooziX+hZfbAYRm3eUIz1aPT2+z/TEmga0IgUMo/dQDi/Ry17J1MW24d9sKVNoTq1t0EY3A/DzcWmO/i8x8YEoGykN9DFAkR3NRFzbeNjzzVHnfCoh1gMDyyKCt7GeKtME2niUC59OLoEbnJRinjxvykzXDTuPGCasau1qaohge44bModknYcA1iUdKtNOvn9hhNmCrENVvfpI9jJBcMIDHdQ4yxyqpNJNuOoTi9HfhoI1c7CPFzOLuldYRKwfYyypTvfnpjo+Mm56PhCY5M3E9Zmg==', 'current_owner': b'eucLde7sZYfv189CyzkBUSx+SJNg3KeWQBye9+DKO2h8SMmqMCaYLDS69ML+UfERWxuQZkLqP6BOE3sKDDA//U1PWhO1u1WEhcTeOuKJ/0tQiqnyhsxNBNQCCi4ubYQHGqWTNiKs2erLqXpdGqAnAnfFgoEE6DvzAm71L/DOzNCNIHKE8xAbKZwDMZ6MFmgawmffs3C7252MvBNSKU3JIan1ZZ6e567DBaUHRucv0PM8duCtTGkCjUhchYwKpOAXKlIFvWHxuD4w4mexlAL6LF+TW9TPUvYiMY8RMezSEAqDEqhQ/3Ld+InqWSRJJnfFYLDRM/Oy0RlTn4DhqqQVGw==', 'contract_date': b'nEcsCRhi9EqjwK7R5Eg3H1tyu2fJt+1uNndG6mEff80oDI0cRn5cJkVB8zQROo36v1glqwzDRXv3cXT8RHtlJ63OAGWbKtfZ1aYP0vid4t8J/YeTk31uPYSdwj17RXHO+dycd59HXvBU7uLequzlwEWTF89U/eFgHnNe5oGzSWtC6e0sHDgf+WDMAx5eF1zC+8y3kVRCGZM2psUXqPb9oR5tl+dbX2ylFN68wqZO4nFV23pe6Xa2byqWfvKGis/jsRLcmwqYPDntpittx8FtLS9YPHigkRRfqLvSaWpWkyAfzgqixPBOfpp+HVwkIk/43hbuw8KdqzlQyUb8oTF2IA==', 'address': b'CQflNIk1JvlVm9oMmP7+k/3ySGxcITDOAukBOj8qfp91p2Kk8kwv+bX14mdy98ZGiJXVjquaNJkp+Ph4FyvWupwevITytBKLxs1+4n621O+iX2WxExef4oC3KgjtnTAnORToioUkYaA+CPwTMnTLpXHXJm5Jf3wW5UvASoh8Cpxe/9Zek0YSHLSFc/XjcSK1pVzfXJ7BHyOWzjZir3GLMNZQjNkP6UnrsZVf92rdFm04R4Qp3FftCwXvEFtFGFCyz70VukgPYwWV3OIC+cEng2Jw3Y7t4Ell6hwbQri17iaZnNwDe+fGuPkOcXhl84T9colU17q5Sj3OrW/YwPDpYg=='}]"
+    }
+  ]
+}

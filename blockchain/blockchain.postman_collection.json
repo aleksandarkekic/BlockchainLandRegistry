@@ -1,0 +1,63 @@
+{
+	"info": {
+		"_postman_id": "2d40c248-8d76-4cd4-baaf-00dce9bad593",
+		"name": "blockchain",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "24793809"
+	},
+	"item": [
+		{
+			"name": "Mine-block",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\"surface_area\":120.5,\r\n\"sale_price\":285000,\r\n\"previous_owner\": \"Bojan Tovilovic\",\r\n\"current_owner\": \"Cof\",\r\n\"contract_date\": \"2023-11-10\",\r\n\"address\": \"Krfska\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:5002/mine-block",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5002",
+					"path": [
+						"mine-block"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get-chain",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5002/get-chain",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5002",
+					"path": [
+						"get-chain"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
